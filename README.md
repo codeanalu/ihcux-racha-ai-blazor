@@ -15,3 +15,5 @@ Valores de crédito e débito utilizam cores semânticas (verde e vermelho) para
 
 • Dificuldade Técnica (Componentização)
 O maior desafio ao componentizar o GrupoCard foi gerenciar a estilização dinâmica. Foi necessário criar uma lógica que interpretasse os dados do objeto Grupo para aplicar classes CSS condicionais. Garantir que o componente alterasse bordas, textos e rótulos ("Você deve" vs "Você recebe") automaticamente, mantendo a responsividade do layout, foi a parte mais complexa da implementação.
+
+<img width="1901" height="947" alt="image" src="https://github.com/user-attachments/assets/bde49eb3-21de-4cbc-a308-fdc8e30fe7f6" />
